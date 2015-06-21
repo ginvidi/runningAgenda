@@ -1,12 +1,12 @@
 # Running Agenda
-Keep the date of weekly training
+###Keep the date of weekly training.
+###Simple Calendar where take note about trainging detail section.
 
 #[Check the month traing section] (http://ginvidi.github.io/runningAgenda/)
 
 [demo source](https://github.com/ginvidi/runningAgenda)
 
+# 
 
-Simple Calendar where take note about trainging detail section.
-
-##Plugin
-###Event Calendar (http://www.vissit.com/jquery-event-calendar-plugin-english-version)
+###Plugin
+[Event Calendar Page] (http://www.vissit.com/jquery-event-calendar-plugin-english-version)
