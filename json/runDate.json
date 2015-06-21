@@ -1,0 +1,8 @@
+[  { "date": "2015-06-13 17:30:00", "type": "run", "title": "Evenig run", "description": "First day of running traing", "minuts":"3:00", "distance":"I don't know how many","totalmin":"10:00", "totaldistance":"I don't know how many"},
+{ "date": "2015-06-14 17:30:00", "type": "run", "title": "Evenig run", "description": "Keep traning", "minuts":"4:00", "distance":"I don't know how many","totalmin":"12:00", "totaldistance":"I don't know how many"},
+{ "date": "2015-06-15 19:30:00", "type": "run", "title": "Evenig run", "description": "", "minuts":"5:00", "distance":"","totalmin":"20:00", "totaldistance":"I don't know how many"},
+{ "date": "2015-06-16 7:0:00", "type": "run", "title": "Mornig run", "description": "", "minuts":"6:00", "distance":"0.6","totalmin":"23:00", "totaldistance":"I don't know how many"},
+{ "date": "2015-06-18 07:00:00", "type": "run", "title": "Morning run", "description": "First day of running traing", "minuts":"8:00", "distance":"0.6","totalmin":"25:00", "totaldistance":"2"},
+{ "date": "2015-06-19 07:00:00", "type": "run", "title": "Morning run", "description": "Keep traning", "minuts":"9:00", "distance":"1","totalmin":"25:00", "totaldistance":"2.5"},
+{ "date": "2015-06-20 19:30:00", "type": "run", "title": "Evenig run", "description": "", "minuts":"10:00", "distance":"0.9","totalmin":"28:00", "totaldistance":"2"}
+]
