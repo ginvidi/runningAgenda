@@ -1,0 +1,45 @@
+/* ++++++++++++++++++++ days calendar style ++++++++++++++++++++++++++++++++*/
+/*table */
+.eventsCalendar-slider{
+  height: 285px;
+}
+
+/*eache day height cell*/
+.showAsWeek .eventsCalendar-day a{
+  line-height: 40px;
+}
+
+/*sigle day*/
+
+/*end month style*/
+#gold-star{
+  background-image: url('../icons/gold-star.svg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position-x: 50% ;
+}
+/*running day style*/
+.eventsCalendar-daysList li.dayWithEvents a{
+  background-image: url('../icons/run.svg');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position-x: 13%;
+}
+
+/*running details style*/
+.eventDesc p{
+  margin:0;
+}
+
+
+
+
+/*footer*/
+
+.plugin{
+  vertical-align: -webkit-baseline-middle;
+}
+
+.plugin img{
+  vertical-align: -webkit-baseline-middle;
+}
