@@ -367,9 +367,9 @@
 									if (event.url) {
 										//var eventTitle = '<a href="'+event.url+'" target="' + eventLinkTarget + '" class="eventTitle">' + event.title + '</a>';
 									} else {
-										var eventTitle = '<span class="eventTitle">'+event.title+'</span>';
+										var eventTitle = '<p class="eventTitle">'+event.title+'<button type="button" class="details">Detail</button></p>';
 									}
-									events.push('<li id="' + key + '" class="'+event.type+'"><time datetime="'+eventDate+'"><em>' + eventStringDate + '</em><small>'+eventHour+":"+eventMinute+'</small></time>'+eventTitle+'<div class="eventDesc ' + eventDescClass + '"><p>' + event.description + '</p><p><strong>Longest running time:</strong> ' + event.minuts + ' min</p><p><strong>Longest running distance:</strong> ' + event.distance + ' km</p><p><strong>Total training duration:</strong>'+ event.totalmin + ' min</p><p><strong>Longest running time:</strong> '+ event.totaldistance + ' km</p></div></li>');
+									events.push('<li id="' + key + '" class="'+event.type+'"><time datetime="'+eventDate+'"><em>' + eventStringDate + '</em><small>'+eventHour+":"+eventMinute+'</small></time>'+eventTitle+'<div class="eventDesc ' + eventDescClass + '"><p>' + event.description + '</p><p><strong>Longest running time:</strong> ' + event.minuts + ' min</p><p><strong>Longest running distance:</strong> ' + event.distance + ' km</p><p><strong>Total training duration:</strong>'+ event.totalmin + ' min</p><p><strong>Longest running time:</strong> '+ event.totaldistance + ' km</p></div><hr></li>');
 									i++;
 								}
 						}
@@ -452,7 +452,7 @@ $.fn.eventCalendar.defaults = {
 	txt_SpecificEvents_after: "events:",
 	txt_next: "next",
 	txt_prev: "prev",
-	txt_NextEvents: "Next runned day:",
+	txt_NextEvents: "",
 	txt_GoToEventUrl: "See the run detailails",
 	showDayAsWeeks: true,
 	startWeekOnMonday: true,
