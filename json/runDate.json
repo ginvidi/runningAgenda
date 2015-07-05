@@ -10,7 +10,11 @@
 { "date": "2015-06-23 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"20:00", "distance":"1.5","totalmin":"35:00", "totaldistance":"3"},
 { "date": "2015-06-24 20:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"25:00", "distance":"2.5","totalmin":"43:00", "totaldistance":"5"},
 { "date": "2015-06-26 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"30:00", "distance":"3","totalmin":"48:00", "totaldistance":"5.5"},
-{ "date": "2015-06-28 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"35:00", "distance":"3.5","totalmin":"55:00", "totaldistance":"6"}
-
+{ "date": "2015-06-28 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"35:00", "distance":"3.5","totalmin":"55:00", "totaldistance":"6"},
+{ "date": "2015-06-29 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"40:00", "distance":"4","totalmin":"60:00", "totaldistance":"6.5"},
+{ "date": "2015-06-30 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"45:00", "distance":"5.5","totalmin":"01:05:00", "totaldistance":"7"},
+{ "date": "2015-07-02 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"50:00", "distance":"6","totalmin":"01:10:00", "totaldistance":"7.5"},
+{ "date": "2015-07-03 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"2"},
+{ "date": "2015-07-05 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"55:00", "distance":"6.5","totalmin":"01:12:00", "totaldistance":"8"}
 
 ]

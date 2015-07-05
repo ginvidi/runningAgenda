@@ -251,7 +251,7 @@
 
 			flags.eventsJson = eventsOpts.jsonData;
 			getEventsData(flags.eventsJson, limit, year, month, day, direction);
-
+			
 		} else if (!eventsOpts.cacheJson || !direction) {
 			// first load: load json and save it to future filters
 			$.getJSON(eventsOpts.eventsjson + "?limit="+limit+"&year="+year+"&month="+month+"&day="+day, function(data) {
@@ -367,6 +367,7 @@
 									if (event.url) {
 										//var eventTitle = '<a href="'+event.url+'" target="' + eventLinkTarget + '" class="eventTitle">' + event.title + '</a>';
 									} else {
+
 										var eventTitle = '<p class="eventTitle">'+event.title+'<button type="button" class="details">Detail</button></p>';
 									}
 									events.push('<li id="' + key + '" class="'+event.type+'"><time datetime="'+eventDate+'"><em>' + eventStringDate + '</em><small>'+eventHour+":"+eventMinute+'</small></time>'+eventTitle+'<div class="eventDesc ' + eventDescClass + '"><p>' + event.description + '</p><p><strong>Longest running time:</strong> ' + event.minuts + ' min</p><p><strong>Longest running distance:</strong> ' + event.distance + ' km</p><p><strong>Total training duration:</strong>'+ event.totalmin + ' min</p><p><strong>Longest running time:</strong> '+ event.totaldistance + ' km</p></div><hr></li>');
