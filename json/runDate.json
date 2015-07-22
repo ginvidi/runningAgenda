@@ -27,7 +27,9 @@
 { "date": "2015-07-16 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
 { "date": "2015-07-18 20:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
 { "date": "2015-07-20 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"45:00", "distance":"5","totalmin":"45:00", "totaldistance":"5"},
-{ "date": "2015-07-21 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"50:00", "distance":"5.5","totalmin":"50:00", "totaldistance":"5.5"}
+{ "date": "2015-07-21 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"50:00", "distance":"5.5","totalmin":"50:00", "totaldistance":"5.5"},
+{ "date": "2015-07-22 70:00:00", "type": "run", "title": "una tortuga sería más veloz ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"}
+
 
 
 
