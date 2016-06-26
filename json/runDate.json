@@ -16,23 +16,25 @@
 { "date": "2015-07-02 07:00:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"50:00", "distance":"6","totalmin":"01:10:00", "totaldistance":"7.5"},
 { "date": "2015-07-03 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"2"},
 { "date": "2015-07-05 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"55:00", "distance":"6.5","totalmin":"01:12:00", "totaldistance":"8"},
-
-{ "date": "2015-07-06 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-07 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"},
-{ "date": "2015-07-09 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-10 07:00:00", "type": "run", "title": "", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-12 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"35:00", "distance":"4","totalmin":"20:00", "totaldistance":"4"},
-{ "date": "2015-07-13 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-14 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"},
-{ "date": "2015-07-16 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-18 20:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
-{ "date": "2015-07-20 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"45:00", "distance":"5","totalmin":"45:00", "totaldistance":"5"},
-{ "date": "2015-07-21 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"50:00", "distance":"5.5","totalmin":"50:00", "totaldistance":"5.5"},
-{ "date": "2015-07-22 70:00:00", "type": "run", "title": "una tortuga sería más veloz ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"}
-
-
-
-
-
-
+{ "date": "2015-08-16 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2015-08-18 20:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2015-08-20 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"45:00", "distance":"5","totalmin":"45:00", "totaldistance":"5"},
+{ "date": "2015-08-21 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"50:00", "distance":"5.5","totalmin":"50:00", "totaldistance":"5.5"},
+{ "date": "2015-09-22 70:00:00", "type": "run", "title": "una tortuga sería más veloz ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2015-09-14 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"},
+{ "date": "2015-09-16 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2015-09-18 20:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2015-10-20 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"45:00", "distance":"5","totalmin":"45:00", "totaldistance":"5"},
+{ "date": "2015-10-21 20:00:00", "type": "run", "title": "Soy vaga,lo se ", "description": "", "minuts":"50:00", "distance":"5.5","totalmin":"50:00", "totaldistance":"5.5"},
+{ "date": "2015-10-22 70:00:00", "type": "run", "title": "una tortuga sería más veloz ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-06-06 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-06-17 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"},
+{ "date": "2016-06-23 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-07-06 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-07-07 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"},
+{ "date": "2016-07-09 06:30:00", "type": "run", "title": "Morning run ", "description": "", "minuts":"01:00:00", "distance":"5.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-07-10 07:00:00", "type": "run", "title": "", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-07-12 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"35:00", "distance":"4","totalmin":"20:00", "totaldistance":"4"},
+{ "date": "2016-07-13 21:00:00", "type": "run", "title": "Evenig run :(", "description": "", "minuts":"01:00:00", "distance":"6.5","totalmin":"01:00:00", "totaldistance":"6.5"},
+{ "date": "2016-07-14 07:00:00", "type": "run", "title": "Improve speed ", "description": "", "minuts":"00:30", "distance":"0.2","totalmin":"20:00", "totaldistance":"1"}
 ]
